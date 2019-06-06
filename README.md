@@ -2,13 +2,13 @@
 
 #### 是什么
 
-一个帮你访问Google、facebook、YouTube、instagram等国外网站的代理工具。
+快达加速一个帮你访问Google、facebook、YouTube、instagram等国外网站的代理工具。
 
 #### 特点
 
 支持PC端（Windows、Mac）、移动端（安卓、ios）、平板（安卓、ios)。
 
-PS: 不止浏览器使用哦，任何软件都可使用。
+不止浏览器使用哦，任何软件都可使用。
 
 
 
