@@ -31,12 +31,14 @@ PS: 不止浏览器使用哦，任何软件都可使用。
 
 #### 还是不会用？
 
-访问官网 <a href="https://kuaida.app" target="_blank">kaudai.app</a> 点击右下角客服图标咨询。
+访问官网 <a href="https://kuaida.app/?from=kd-doc" target="_blank">https://kuaida.app/</a> 点击右下角客服图标咨询。
 
 或者
 
 Email： kuaida.app@gmail.com
 
-Tg : <a href="https://t.me/zhimu" target="_blank">https://t.me/zhimu</a>
+Telegram : <a href="https://t.me/zhimu" target="_blank">https://t.me/zhimu</a> (需要代理)
+
+Telegram频道：<a href="https://t.me/kuaida_app" target="_blank">https://t.me/kuaida_app</a> (需要代理) 最新消息第一时间通知
 
 客服在线时间：9:00 — 23:00 ，如果客服不在线，请留言或留下你的联系邮箱，客服会第一时间联系你
