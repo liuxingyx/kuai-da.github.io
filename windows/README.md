@@ -16,7 +16,7 @@
 电脑右下角会显示个小飞机的图标。
 
 
-<p class="tip">如果提示 <code>.NET Framework版本过低</code>或者<code>shadowsocks已停止工作</code>，需要安装 <a href="https://www.microsoft.com/zh-CN/download/details.aspx?id=53344" target="_blank">.NET Framework 4.6.2</a>，安装后如果打开软件还是无法使用，请再安装 <a href="https://www.microsoft.com/en-us/download/details.aspx?id=53840" target="_blank">Microsoft Visual C++ 2015 Redistributable (x86)</a></p>
+<p class="tip">如果提示 <code>.NET Framework版本过低</code>或者<code>shadowsocks已停止工作</code>，需要安装 <a href="https://www.microsoft.com/zh-CN/download/details.aspx?id=53344" target="_blank">.NET Framework 4.6.2</a>，安装后如果软件还是无法打开，请再安装 <a href="https://www.microsoft.com/en-us/download/details.aspx?id=53840" target="_blank">Microsoft Visual C++ 2015 Redistributable (x86)</a></p>
 
 
 
