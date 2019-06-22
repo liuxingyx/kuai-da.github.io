@@ -1,55 +1,48 @@
 # Linux使用教程
 
-<!-- > An awesome project. -->
 
 #### GUI客户端
 
-#####  Fedora
+#####  下载
 
 
-The Copr builds RPMs for latest Fedora. You can enable the repo via dnf:
-
-```
-sudo dnf copr enable librehat/shadowsocks
-sudo dnf update
-sudo dnf install shadowsocks-qt5
-```
-You may need to install a dnf plugin via the command below, before you can enable copr repo using dnf.
-
-sudo dnf install dnf-plugins-core
-If your distribution doesn't have dnf, you can download the corresponding yum repo from Copr and put it under /etc/yum.repos.d/, then install shadowsocks-qt5 via yum:
-
-```
-sudo yum update
-sudo yum install shadowsocks-qt5
-```
+下载地址： <a href="https://github.com/shadowsocks/shadowsocks-qt5/releases/download/v3.0.1/Shadowsocks-Qt5-3.0.1-x86_64.AppImage" target="_blank">点击下载</a>
 
 
-##### Debian
+##### 运行
 
-<a href="https://github.com/debiancn/repo" target="_blank">Debian CN</a> 
+右击下载的文件，选择【属性】->【权限】，所有的访问都选择【读写】，并且勾选【允许作为程序执行文件】，然后右击选择【运行】。
 
 
 
-##### Arch
+##### 添加账号
 
-<a href="https://www.archlinux.org/packages/community/x86_64/shadowsocks-qt5/" target="_blank">Community</a> 
+购买的账号页面右侧二维码下面有个复制链接，复制后，点击客户端软件的【连接】->【添加】->【url】 粘贴后点击ok,
+
+配置名称随便填写，建议写节点的中文备注，如果：日本、洛杉矶登陆。
+
+本地地址：127.0.0.1  
+
+端口: 1085
+
+本地服务器类型；sockes5
+
+然后点击 ok，然后在右击你添加的这条数据，选择【连接】
 
 
+##### 浏览器配置
 
-##### Gentoo
+这里以火狐浏览器为例，
 
-<a href="https://github.com/microcai/gentoo-zh" target="_blank">gentoo-zh</a> maintained by microcai
+打开火狐浏览器，点击浏览器右上方【三】这个样子的菜单，选择【首选项】
 
+网络设置【设置】
 
+选择【手动代理配置】，socks5主机填写；127.0.0.1   ，端口填写；1085  ，选择socks_v5 ,点击确定。
 
-#### 命令行客户端
+试试可以打开谷歌了吗。
 
-```
-pip install shadowsocks
-apt-get install shadowsocks-libev
-cpan Net::Shadowsocks
-```
+如果不行，请下载个远程协助软件 <a href="https://www.teamviewer.cn/cn/download" target="_blank">teamviewer</a>, 安装后，把id和密码发给我，我远程帮你看看
 
 
 
