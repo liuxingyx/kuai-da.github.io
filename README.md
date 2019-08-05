@@ -31,7 +31,7 @@
 
 #### 还是不会用？
 
-访问官网 <a href="https://kuaida.app/?from=kd-doc" target="_blank">https://kuaida.app/</a> 点击右下角客服图标咨询。
+访问官网 <a href="https://kuaida.app/home/ref/0558006508" target="_blank">https://kuaida.app/</a> 点击右下角客服图标咨询。
 
 或者
 
