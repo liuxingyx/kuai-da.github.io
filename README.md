@@ -29,7 +29,7 @@
 * [如何订阅](/help/?id=如何订阅)
 
 
-#### 还是不会用？
+#### 联系客服
 
 访问官网 <a href="https://kuaida.app/home/ref/0558006508" target="_blank">https://kuaida.app/</a> 点击右下角客服图标咨询。
 
