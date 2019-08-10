@@ -10,9 +10,15 @@ ios用户需要先购买账号，
 
 #### 2. 安装
 
+方法1:
+
 <span style="color: red">重要：点击“在线安装”后等会，安装完成网页会显示个Apple ID账号，第一次打开软件需要登陆这个Apple ID，千万不要使用网页显示的Apple ID登陆到自己的icloud哦。</span>	
 
 <span style="color: green">说明：软件正常使用后，如果打开自己的AppStore显示英文的话，点击AppStore右上角的头像，点【Sign Out】退出，再登陆自己的Apple ID即可。</span>
+
+方法2:
+
+打开手机应用App Store，点击右上角头像退出账号，然后用网页显示的Apple ID登陆，登陆成功后，卸载刚才下载的小火煎app，然后打开 https://itunes.apple.com/app/id932747118 这个链接下载，下载后如果没什么问题，记得App Store退出刚登陆的账号，登陆自己的。
 
 
 #### 3. 导入配置 
