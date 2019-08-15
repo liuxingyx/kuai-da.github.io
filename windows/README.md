@@ -9,6 +9,8 @@
 
 地址二：<a href="https://www.lanzous.com/i3uj8di" target="_blank">点击下载</a>
 
+如果想支持订阅，请下载此客户端：<a href="https://github.com/TheCGDF/SSD-Windows/releases/download/0.1.7/Shadowsocks-0.1.7.zip" target="_blank">点击下载</a>
+
 #### 2. 安装
 
 解压压缩包内的文件夹（无解压工具，请先安装WinRAR），右击鼠标以管理员方式打开Shadowsocks文件。
