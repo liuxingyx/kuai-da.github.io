@@ -5,11 +5,8 @@
 
 首先，下载window的客户端。
 
-地址一：<a href="https://share.weiyun.com/5pquTRE" target="_blank">点击下载</a> 
+地址一：<a href="https://share.weiyun.com/5VvIgr4" target="_blank">点击下载</a> 
 
-地址二：<a href="https://www.lanzous.com/i3uj8di" target="_blank">点击下载</a>
-
-如果想支持订阅，请下载此客户端：<a href="https://github.com/TheCGDF/SSD-Windows/releases/download/0.1.7/Shadowsocks-0.1.7.zip" target="_blank">点击下载</a>
 
 #### 2. 安装
 
