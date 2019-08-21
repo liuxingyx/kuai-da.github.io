@@ -6,9 +6,7 @@
 
 首先，下载mac的客户端。
 
-地址一：<a href="https://share.weiyun.com/5bO5nFz" target="_blank">点击下载</a> 
-
-<!-- 地址二：<a href="https://www.lanzous.com/i3uj8di" target="_blank">点击下载</a>   密码：35vvis  -->
+地址一：<a href="https://share.weiyun.com/5crSHoB" target="_blank">点击下载</a>
 
 #### 2. 安装
 
