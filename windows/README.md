@@ -5,7 +5,7 @@
 
 首先，下载window的客户端。
 
-地址一：<a href="https://share.weiyun.com/5VvIgr4" target="_blank">点击下载</a> 
+地址一：<a href="https://share.weiyun.com/5crSHoB" target="_blank">点击下载</a>
 
 
 #### 2. 安装
