@@ -1,9 +1,9 @@
-* [首页](/)
 
 
 
-* 入门
 
+* 教程
+  * [介绍](/)
   * [安卓](/android/README.md)
   * [iso/苹果手机](/ios/README.md)
   * [windows](/windows/README.md)
