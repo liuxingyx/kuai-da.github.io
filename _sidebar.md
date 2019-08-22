@@ -1,9 +1,13 @@
 
+  
+* 快达加速
+
+  * [什么是快达加速？](/)
 
 
 
 * 教程
-  * [什么是快达加速？](/)
+
   * [安卓](/android/README.md)
   * [iso/苹果手机](/ios/README.md)
   * [windows](/windows/README.md)
