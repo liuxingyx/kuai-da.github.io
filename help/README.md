@@ -6,15 +6,3 @@
 
 
 #### [Proxy SwitchyOmega 配置](/help/SwitchyOmega)
-
-
-
-#### 试试
-
-* [如何订阅？](/help/Subscribe)
-
-何何何何何何
-
-* [如何订阅？](/help/Subscribe)
-
-何何何何何何
