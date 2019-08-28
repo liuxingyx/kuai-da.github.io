@@ -12,7 +12,7 @@
 
 <span style="color: red">重要：点击“在线安装”后等会，安装完成网页会显示个Apple ID账号，第一次打开软件需要登陆这个Apple ID，千万不要使用网页显示的Apple ID登陆到自己的icloud哦(千万千万注意)。</span>	
 
-<span style="color: green">说明：软件正常使用后，如果打开自己的AppStore显示英文的话，点击AppStore右上角的头像，点【Sign Out】退出，再登陆自己的Apple ID即可。</span>
+说明：软件正常使用后，如果打开自己的AppStore显示英文的话，点击AppStore右上角的头像，点【Sign Out】退出，再登陆自己的Apple ID即可。
 
 <b style="font-size:16px"><a href="http://t.cn/AiQl7pfx" target="_blank">IOS APP下载 / 在线安装</a></b>
 
