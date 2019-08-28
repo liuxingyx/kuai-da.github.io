@@ -14,7 +14,7 @@
 
 <span style="color: green">说明：软件正常使用后，如果打开自己的AppStore显示英文的话，点击AppStore右上角的头像，点【Sign Out】退出，再登陆自己的Apple ID即可。</span>
 
-<b><a href="http://t.cn/AiQl7pfx" target="_blank">IOS APP下载</a></b>
+<b style="font-size:16px"><a href="http://t.cn/AiQl7pfx" target="_blank">IOS APP下载 / 在线安装</a></b>
 
 #### 3. 导入配置 
 
