@@ -38,3 +38,8 @@ Telegram : <a href="https://t.me/zhimu" target="_blank">https://t.me/zhimu</a> (
 Telegram频道：<a href="https://t.me/kuaida_app" target="_blank">https://t.me/kuaida_app</a> (需要代理) 最新消息第一时间通知
 
 客服在线时间：9:00 — 23:00 ，如果客服不在线，请留言或留下你的联系邮箱，客服会第一时间联系你
+
+
+#### 远程协助
+
+需要远程协助的，请下载并安装 <a href="https://www.teamviewer.cn/cn/download" target="_blank">Teamviewer</a> ,然后把id和密码发给客服。
