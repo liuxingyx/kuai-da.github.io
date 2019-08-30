@@ -43,3 +43,5 @@ Telegram频道：<a href="https://t.me/kuaida_app" target="_blank">https://t.me/
 #### 远程协助
 
 需要远程协助的，请下载并安装 <a href="https://www.teamviewer.cn/cn/download" target="_blank">Teamviewer</a> ,然后把id和密码发给客服。
+
+PS:安装的时候选择个人非商业用途。
