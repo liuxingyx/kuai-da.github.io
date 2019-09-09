@@ -4,7 +4,7 @@
 
 #### 下载
 
-ios: <a href="https://apps.apple.com/cn/app/telegram-messenger/id686449807" target="_blank">App Store</a>
+ios:  <a href="https://apps.apple.com/cn/app/telegram-messenger/id686449807" target="_blank">App Store</a>
 
 
-android(安卓)： <a href="https://share.weiyun.com/57aklRS" target="_blank">网盘下载</a>　　　<a href="https://play.google.com/store/apps/details?id=org.telegram.messenger" target="_blank">Google Play</a>
+android(安卓)： <a href="https://share.weiyun.com/57aklRS" target="_blank">网盘下载</a>　　<a href="https://play.google.com/store/apps/details?id=org.telegram.messenger" target="_blank">Google Play</a>
