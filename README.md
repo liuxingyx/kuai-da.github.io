@@ -27,9 +27,7 @@
 
 #### 联系客服
 
-访问官网 <a href="https://kuaida.app/home/ref/0558006508" target="_blank">https://kuaida.app/</a> 点击右下角客服图标咨询。
-
-或者
+在线客服：访问官网 <a href="https://kuaida.app/home/ref/0558006508" target="_blank">https://kuaida.app/</a> 点击右下角客服图标咨询。
 
 Email： kuaida.app@gmail.com
 
@@ -39,6 +37,7 @@ Telegram频道：<a href="https://t.me/kuaida_app" target="_blank">https://t.me/
 
 客服在线时间：9:00 — 23:00 ，如果客服不在线，请留言或留下你的联系邮箱，客服会第一时间联系你
 
+**[Telegram下载/汉化](/help/telegram/)**
 
 #### 远程协助
 
