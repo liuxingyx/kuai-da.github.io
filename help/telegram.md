@@ -8,3 +8,7 @@ ios:  <a href="https://apps.apple.com/cn/app/telegram-messenger/id686449807" tar
 
 
 android(安卓)： <a href="https://share.weiyun.com/57aklRS" target="_blank">网盘下载</a>　　<a href="https://play.google.com/store/apps/details?id=org.telegram.messenger" target="_blank">Google Play</a>
+
+#### 汉化
+
+浏览器打开：tg://setlanguage?lang=classic-zh-cn
