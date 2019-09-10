@@ -11,4 +11,4 @@ android(安卓)： <a href="https://share.weiyun.com/57aklRS" target="_blank">�
 
 #### 汉化
 
-浏览器打开：<a href="tg://setlanguage?lang=classic-zh-cn" target="_blank">tg://setlanguage?lang=classic-zh-cn</a>
+打开：<a href="tg://setlanguage?lang=classic-zh-cn" target="_blank">tg://setlanguage?lang=classic-zh-cn</a>
