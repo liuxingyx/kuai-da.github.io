@@ -27,7 +27,7 @@
 
 #### 联系客服
 
-在线客服：访问官网 <a href="https://kuaida.app/home/ref/0558006508" target="_blank">https://kuaida.app/</a> 点击右下角客服图标咨询。
+QQ：1985433405
 
 Email： kuaida.app@gmail.com
 
