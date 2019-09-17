@@ -4,6 +4,8 @@
 
 快达加速一个帮你访问Google、facebook、YouTube、instagram等国外网站的代理工具。
 
+官网：https://tinyurl.com/y3lzw7qq
+
 #### 特点
 
 支持PC端（Windows、Mac）、移动端（安卓、ios）、平板（安卓、ios)。
