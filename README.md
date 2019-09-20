@@ -29,7 +29,6 @@
 
 #### 联系客服
 
-QQ：1985433405
 
 Email： kuaida.app@gmail.com
 
