@@ -4,7 +4,7 @@
 
 快达加速一个帮你访问Google、facebook、YouTube、instagram等国外网站的代理工具。
 
-官网： http://t.cn/AimkJPqY
+官网： http://t.cn/AiugBSmZ
 
 #### 特点
 
