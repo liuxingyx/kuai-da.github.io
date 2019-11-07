@@ -13,7 +13,7 @@
 #### 配置代理文件
 
 根据刚复制的起始位置地址，找到软件的安装目录，如：C:\Users\Administrator\AppData\Local\Discord\app-0.0.305，打开，返回上一个目录Discord下面, 你会看到
-一个Update文件，如果下载此文件到此目录， <a href="https://raw.githubusercontent.com/kuai-da/kuai-da.github.io/master/static/Update.exe.config" target="_blank">下载Update.exe.config</a>
+一个Update文件，如果下载此文件到此目录， <a href="https://raw.githubusercontent.com/kuai-da/kuai-da.github.io/master/static/Update.exe.config" target="_blank">打开Update.exe.config</a> Ctrl+S 保存
 
 所有配置已完成，然后重新打开软件。
 
