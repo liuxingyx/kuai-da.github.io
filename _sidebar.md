@@ -20,3 +20,4 @@
   * [如何订阅](/help/subscribe)
   * [Proxy SwitchyOmega 配置](/help/switchyOmega)
   * [Telegram下载](/help/telegram)
+  * [Discord代理](/help/discord.md)
